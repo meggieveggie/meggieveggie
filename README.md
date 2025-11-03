@@ -14,13 +14,11 @@
 
 ![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
 
-As an Association of Chartered Certified Accountants (ACCA) Member, I have a deep understanding of the accounting profession and a passion for staying up-to-date with the latest accounting standards. However, I also love a good challenge and have pivoted my career towards a more technological role.
+I’m an FCCA-qualified finance professional (Fellow of the Association of Chartered Certified Accountants) with hands-on experience in software engineering and data systems. After years in senior financial accounting roles, I’ve pivoted toward technology, combining my finance expertise with a passion for building scalable, automated, and reliable data workflows.
 
-I've been focused on understanding the full range of technologies used in everyday applications, with a particular emphasis on data, both real-time and static. I find it incredibly satisfying to use my skills to help organizations make data-driven decisions that improve their bottom line.
+I enjoy tackling operational finance challenges, from simplifying month-end processes to improving data quality and building systems teams can trust. My work spans Python, SQL, ETL, BigQuery, and cloud platforms, with a focus on helping organizations make data-driven decisions.
 
-I'm always eager to learn new things and stay ahead of the curve in my field. As such, I'm constantly exploring new technologies, frameworks, and tools that can help me do my job more effectively.
-
-I'm excited to see how the worlds of accounting and technology continue to intersect and evolve, and I'm committed to staying at the forefront of these changes. If you're looking for a detail-oriented and tech-savvy professional who can help take your organization to the next level, please don't hesitate to reach out.
+I’m constantly exploring new technologies and frameworks, staying at the intersection of finance and technology, and delivering real value through automation and reliable data systems. I’m excited to see how the worlds of accounting and technology continue to intersect and evolve, and I’m committed to staying at the forefront of these changes.
 
 Check out [my latest blog](https://blog.container-solutions.com/case-study-cloud-native-finance-at-cs)
 
