@@ -19,6 +19,3 @@ I’m an FCCA-qualified finance professional (Fellow of the Association of Chart
 I enjoy tackling operational finance challenges, from simplifying month-end processes to improving data quality and building systems teams can trust. My work spans Python, SQL, ETL, BigQuery, and cloud platforms, with a focus on helping organizations make data-driven decisions.
 
 I’m constantly exploring new technologies and frameworks, staying at the intersection of finance and technology, and delivering real value through automation and reliable data systems. I’m excited to see how the worlds of accounting and technology continue to intersect and evolve, and I’m committed to staying at the forefront of these changes.
-
-Check out [my latest blog](https://blog.container-solutions.com/case-study-cloud-native-finance-at-cs)
-
